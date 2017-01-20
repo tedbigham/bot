@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "async": "^2.1.4",
-    "poker-evaluator": "^0.3.1",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
     "string-format": "^0.5.0",
