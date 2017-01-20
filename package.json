@@ -1,0 +1,25 @@
+{
+  "name": "poker-bot",
+  "version": "1.0.0",
+  "description": "Z4 Poker Bot",
+  "author": "Ted Bigham <tedbigham@yahoo.com>",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node --harmony bot.js"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "poker-evaluator": "^0.3.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "string-format": "^0.5.0",
+    "underscore": "^1.8.3",
+    "websocket": "^1.0.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tedbigham/pokerbot"
+  },
+  "license": "MIT"
+}
