@@ -1,4 +1,5 @@
 # poker bot
+Bot I wrote for my interview with hdpoker.com
 
 ## Install
 ``npm install``
