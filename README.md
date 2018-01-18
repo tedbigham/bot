@@ -8,5 +8,5 @@ Bot I wrote for my interview with hdpoker.com
 ``node pokerbot.js``
 
 # Configure 
-Change settings in pokerbot.js.  The commited settings connect to 'candidate'.
+Change settings in pokerbot.js.  The commited settings connect to 'candidate' server.
 
